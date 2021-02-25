@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nishtha Arya, a full stack web developer with a love for all things design ✨ I am skilled in:
+I'm Nishtha Arya, a full stack web developer with a love for all things design ✨  I am skilled in:
 * JavaScript
 * HTML
 * CSS
