@@ -15,7 +15,6 @@ She/her/hers
 #### 🌱 Who I Am:
 - I am an art & literature student who found her love for coding during the pandemic and now refuses to go back.
 - Lover of all things frontend! I love building things that work efficiently and look great.
-- Currently looking for opportunities as a frontend developer to help me learn and grow as a programmer.
 
 #### ⚡ One line that describes me best:
 Maximalist in theory, minimalist in practice.
