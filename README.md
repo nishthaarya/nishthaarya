@@ -28,7 +28,7 @@ Maximalist in theory, minimalist in practice.
 - Feel free to shoot me a DM on twitter [here](https://twitter.com/aryacodes)
 
 #### 🔭 More About Me:
-Please checkout my portfolio [here](https://vercel.com)
+Please checkout my portfolio [here](https://portfolio1-nishthaarya.vercel.app/)
 
 <!--
 **nishthaarya/nishthaarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
