@@ -1,19 +1,23 @@
 ### Hi there 👋
-I'm Nishtha Arya, a full stack web developer with a love for all things design ✨  I am skilled in:
-* JavaScript
-* HTML
-* CSS
+I'm Nishtha Arya, a Frontend Engineer with a love for all things design. Currently an Engineering Fellow at Pesto Tech to upskill myself.
+I have previously worked at organizations like 1sm, Klutchh, and done a few freelancing gigs in a Frontend capacity. 
+
+I am skilled in:
+* JavaScript, ES6, ES7
 * React
 * Redux
-* Node
-* Express
-* MongoDB
+* HTML5
+* CSS
+* TailwindCSS
+* Material UI
+
+I talk about Web Development on Instagram! Check me out @arya.code 🚀
 
 #### 😄 My Pronouns:
 She/her/hers
 
 #### 🌱 Who I Am:
-- I am an art & literature student who found her love for coding during the pandemic and now refuses to go back.
+- Passionate about problem-solving, a critical thinker, and a hardworker.
 - Lover of all things frontend! I love building things that work efficiently and look great.
 
 #### ⚡ One line that describes me best:
